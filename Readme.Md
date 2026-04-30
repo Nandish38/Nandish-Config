@@ -1,46 +1,72 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Nandish+Shah;Automation+Engineer+%7C+Toronto;Building+Vaultboard;Python+%7C+QA+%7C+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Nandish+Shah+%E2%80%94+Automation+Engineer;QA+%E2%80%A2+Python+%E2%80%A2+CI%2FCD+%E2%80%A2+APIs;I+build+reliable+pipelines+and+test+systems+that+ship+fast" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nandish38">github.com/Nandish38</a>
-  •
-  <a href="https://github.com/Nandish38/Holdings">Vaultboard (Holdings)</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandish38&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandish38&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+### I help teams ship confidently.
+**Automation Engineer** focused on test systems, API quality, and CI/CD that stays green.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nandish38&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<a href="https://github.com/Nandish38?tab=repositories">Repos</a> ·
+<a href="https://github.com/Nandish38/Holdings">Vaultboard</a> ·
+<a href="https://www.linkedin.com/">LinkedIn</a> ·
+<a href="mailto:your@email.com">Email</a>
+
+</div>
 
 ---
 
-### About
-- Automation Engineer
-- Interests: test automation, backend APIs, CI/CD, clean developer experience
-- Current: **Vaultboard** — portfolio journal + dashboards
+## Proof (fast scan)
+<div align="center">
 
-### Tech
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FBBF24" />
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=34D399" />
-  <img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43B02A" />
-  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=93C5FD" />
-</p>
+| What I do | What you get |
+|---|---|
+| **API test automation** | fewer regressions, faster releases |
+| **UI automation (Selenium)** | stable, maintainable suites |
+| **CI/CD hardening** | quicker feedback, less flaky builds |
+| **Observability mindset** | failures explained, not guessed |
+
+</div>
 
 ---
 
-### Contribution Snake (animated)
-![snake](./dist/github-contribution-grid-snake.svg)
+## Featured work (recruiter-friendly)
+### 1) Vaultboard — portfolio journal + dashboards
+**Repo:** https://github.com/Nandish38/Holdings  
+**Highlights:**
+- Streamlit UI + charts, snapshots/history, market watch, and deployment artifacts (Docker/ECS)
+- Focus: clean UX + reproducible deploy + data visibility
+
+**Why it matters:** shows product thinking + delivery end-to-end (not just scripts).
 
 ---
 
-### Pinned work
-- **Vaultboard**: `Holdings`
-- FastAPI demos, QA services, Selenium automation
+### 2) FastAPI demos & backend QA
+**Repo:** https://github.com/Nandish38/fastapi-Demo  
+**Highlights:**
+- async endpoints + clean structure
+- good base for contract tests + CI
+
+---
+
+### 3) Selenium automation
+**Repo:** https://github.com/Nandish38/Selenium  
+**Highlights:**
+- UI automation patterns that scale (page objects, waits, stability-first)
+
+---
+
+## My toolbox (only what I actually use)
+- **Python**, **FastAPI**, **Pytest**
+- **Selenium**
+- **Docker**, **GitHub Actions**
+- **AWS (ECS/Fargate)**
+
+---
+
+## What I’m open to
+- QA Automation / SDET
+- Backend QA / API Automation
+- CI/CD & reliability-focused roles
+
+> If you’re hiring, the fastest way to evaluate me is to look at the **Featured work** above.
