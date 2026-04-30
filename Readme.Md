@@ -3,41 +3,43 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nandish38/Holdings"><b>Vaultboard</b></a> ·
-  <a href="https://github.com/Nandish38/fastapi-Demo"><b>FastAPI Demo</b></a> ·
-  <a href="https://github.com/Nandish38/Selenium"><b>Selenium</b></a>
+  <a href="https://github.com/Nandish38"><b>github.com/Nandish38</b></a>
 </p>
 
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/Nandish38/Holdings">
-  <img src="./assets/vaultboard.png" width="100%" />
-</a>
 
 ### Vaultboard
-Portfolio journal + dashboards.  
-**Streamlit + Plotly + snapshots + deploy-ready (Docker/ECS).**
-</td>
+**Portfolio journal + dashboards**  
+- Streamlit + Plotly
+- Snapshots/history
+- Docker/ECS ready
 
+→ https://github.com/Nandish38/Holdings
+
+</td>
 <td width="33%" valign="top">
-<a href="https://github.com/Nandish38/fastapi-Demo">
-  <img src="./assets/fastapi.png" width="100%" />
-</a>
 
 ### FastAPI Demo
-Clean async API structure.  
-**Great base for contract tests + CI gates.**
-</td>
+**Clean async API structure**  
+- Great for contract tests
+- CI-friendly layout
+- Swagger docs ready
 
+→ https://github.com/Nandish38/fastapi-Demo
+
+</td>
 <td width="33%" valign="top">
-<a href="https://github.com/Nandish38/Selenium">
-  <img src="./assets/selenium.png" width="100%" />
-</a>
 
 ### Selenium Automation
-UI automation patterns that scale.  
-**Stability-first waits, maintainable structure.**
+**UI automation that scales**  
+- Stability-first waits
+- Maintainable structure
+- CI execution ready
+
+→ https://github.com/Nandish38/Selenium
+
 </td>
 </tr>
 </table>
@@ -47,5 +49,5 @@ UI automation patterns that scale.
 ## What I do
 I build **automation that reduces regressions** and **shortens feedback loops**.
 
-## Hiring
-Open to **SDET / QA Automation / Backend QA** roles.
+## Open to roles
+**SDET / QA Automation / Backend QA**
