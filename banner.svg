@@ -1,8 +1,8 @@
 <svg viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
   <rect width="600" height="120" fill="#0d1117" rx="8"/>
-  <text x="20" y="38" fill="#3fb950" font-family="monospace" font-size="13">œ ~ whoami</text>
-  <text x="20" y="60" fill="#58a6ff" font-family="monospace" font-size="18" font-weight="700">Nandish · Quality Engineer</text>
-  <text x="20" y="82" fill="#8b949e" font-family="monospace" font-size="12">Selenium · Playwright · Java · Python · CI/CD · GTA <A</text>
+  <text x="20" y="38" fill="#3fb950" font-family="monospace" font-size="13">$ whoami</text>
+  <text x="20" y="60" fill="#58a6ff" font-family="monospace" font-size="18" font-weight="700">Nandish | Quality Engineer</text>
+  <text x="20" y="82" fill="#8b949e" font-family="monospace" font-size="12">Selenium | Playwright | Java | Python | CI/CD | GTA</text>
   <rect x="20" y="95" height="2" fill="#58a6ff" rx="1">
     <animate attributeName="width" from="0" to="560" dur="2s" fill="freeze"/>
   </rect>

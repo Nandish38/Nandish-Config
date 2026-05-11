@@ -3,11 +3,11 @@
 Quality Engineering · Test Automation · Banking & Fintech · Greater Toronto Area
 
 <p align="center">
-  <img src="./banner.svg" alt="Nandish · Quality Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nandish38/Nandish38/main/banner.svg" alt="Nandish Quality Engineer banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Quality+Engineer+focused+on+reliable+releases;Selenium+%7C+Playwright+%7C+Java+%7C+Python+%7C+CI%2FCD;Banking+and+fintech+QA+with+automation-first+delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Quality+Engineer+focused+on+reliable+releases;Selenium+%7C+Playwright+%7C+Java+%7C+Python+%7C+CI%2FCD;Banking+and+fintech+QA+automation" alt="Typing SVG" />
 </p>
 
 ```json
