@@ -14,7 +14,7 @@ Quality Engineering · Test Automation · Banking & Fintech · Greater Toronto A
 {
   "role": "Quality Engineer",
   "focus": "Test Automation, CI/CD, Banking QA",
-  "location": "Greater Toronto Area, Canada",
+  "location": "Toronto, Canada",
   "domains": ["Fintech", "Banking", "Payment Gateways", "Portfolio Dashboards"],
   "workflows": ["Account opening", "Funds movement", "Account maintenance", "Regression coverage"],
   "compliance": ["OSFI", "PCI-DSS", "SOX"]
